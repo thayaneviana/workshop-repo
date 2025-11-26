@@ -6,7 +6,7 @@
   "containerDefinitions": [
     {
       "name": "webapp",
-      "image": "image": "<IMAGE1_NAME>",
+      "image": "<IMAGE1_NAME>",
       "cpu": 0,
       "links": [],
       "portMappings": [
